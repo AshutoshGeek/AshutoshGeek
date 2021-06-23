@@ -5,6 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with YOLOv4: Real-Time object detection @ 30FPS](https://dev.to/spectrumcetb/getting-started-with-yolov4-real-time-object-detection-30fps-2fo1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
