@@ -4,9 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshgeek&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshgeek" /> </p>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
 - [Getting started with YOLOv4: Real-Time object detection @ 30FPS](https://dev.to/spectrumcetb/getting-started-with-yolov4-real-time-object-detection-30fps-2fo1)
-<!-- BLOG-POST-LIST:END -->
+- [Getting started with IoT using MQTT in Python, Node-Red and Jetson Nano or Raspberry Pi](https://ashut0sh.me/posts/mqtt-implementation-in-python/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
